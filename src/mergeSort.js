@@ -1,6 +1,5 @@
 import tickDuration from './settings';
 
-console.log(tickDuration);
 // bottum-up
 class MergeSort {
     constructor(canvas, data) {
