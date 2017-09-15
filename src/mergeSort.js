@@ -1,4 +1,4 @@
-import tickDuration from './settings';
+import {tickDuration} from './helpers';
 
 // bottum-up
 class MergeSort {
